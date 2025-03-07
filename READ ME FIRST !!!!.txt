@@ -1,6 +1,5 @@
-ATM SIMULATOR IN PYTHON
+<----ATM SIMULATOR----->
 
 Username: user1
-
 Pin code: 1111
 
